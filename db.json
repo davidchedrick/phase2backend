@@ -1,90 +1,108 @@
 {
   "cats": [
     {
-      "id": 1,
-      "title": "First Card",
-      "description": "Here's My cutie Card",
-      "image": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg",
-      "favorite": false,
-      "comments": [
-        {
-          "id": 1,
-          "comment": "Love it"
-        },
-        {
-          "id": 2,
-          "comment": "CUTIE"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Second Card",
-      "description": "Here's My adorable Card",
-      "image": "https://cdn.pixabay.com/photo/2017/07/25/01/22/cat-2536662_960_720.jpg",
-      "favorite": false,
-      "comments": [
-        {
-          "id": 1,
-          "comment": "❤️❤️❤️❤️"
-        },
-        {
-          "id": 2,
-          "comment": " wow  great photo 😍"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Third Card",
-      "description": "Here's My lovely Card",
-      "image": "https://cdn.pixabay.com/photo/2015/03/27/13/16/maine-coon-694730_960_720.jpg",
-      "favorite": false,
-      "comments": {
-        "comments": "this is cute"
-      }
-    },
-    {
       "id": 4,
-      "title": "Test Cat",
+      "name": "Test Cat",
       "description": "spooky",
       "image": "https://images.pexels.com/photos/1056251/pexels-photo-1056251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "favorite": false,
-      "comments": []
-    },
-    {
-      "id": 5,
-      "title": "test 2",
-      "description": " test 2",
-      "image": "https://images.pexels.com/photos/479009/pexels-photo-479009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "favorite": false,
-      "comments": [
-        {
-          "id": 1,
-          "comment": "wish i could pet"
-        },
-        {
-          "id": 2,
-          "comment": "!!!!!!!"
-        }
-      ]
+      "favorite": true,
+      "comments": "Love this"
     },
     {
       "id": 6,
-      "title": "Fluffy",
+      "name": "Fluffy",
       "description": "SOOOO CUTIE!!!",
       "image": "https://images.pexels.com/photos/1870300/pexels-photo-1870300.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "favorite": false,
-      "comments": [
-        {
-          "id": 1,
-          "comment": "He is so adorable! ❤️"
-        },
-        {
-          "id": 2,
-          "comment": "CUTIE ALERT! 😍"
-        }
-      ]
+      "comments": ""
+    },
+    {
+      "id": 8,
+      "name": "Kitty<3",
+      "description": "awwww.",
+      "image": "https://images.pexels.com/photos/675463/pexels-photo-675463.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": true,
+      "comments": ""
+    },
+    {
+      "name": "cutie ",
+      "description": "adorable!!!!!!!",
+      "image": "https://images.pexels.com/photos/1438500/pexels-photo-1438500.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": true,
+      "comments": "",
+      "id": "f7a1a305-b2b6-4d78-8fcc-0ce05c77e65e"
+    },
+    {
+      "name": "Bob",
+      "description": "adorable!!!!!!!",
+      "image": "https://www.rd.com/wp-content/uploads/2021/04/GettyImages-988013222-scaled-e1618857975729.jpg",
+      "favorite": false,
+      "comments": "",
+      "id": "0c65c680-864d-45e6-96bf-364ed0f62733"
+    },
+    {
+      "name": "Bob",
+      "description": "Such a cutie!",
+      "image": "https://images.pexels.com/photos/1976035/pexels-photo-1976035.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": true,
+      "comments": "",
+      "id": "83105365-3b5d-4051-8021-2b0997402177"
+    },
+    {
+      "name": "Henry",
+      "description": "awwww.",
+      "image": "https://images.pexels.com/photos/3030635/pexels-photo-3030635.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": true,
+      "comments": "",
+      "id": "b613073a-4227-4dd0-b169-43cf9fa153d7"
+    },
+    {
+      "name": "Matty",
+      "description": "spooky",
+      "image": "https://images.pexels.com/photos/1416832/pexels-photo-1416832.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "favorite": false,
+      "comments": "",
+      "id": "8bb9db04-794a-415f-8293-ec515dce856e"
+    },
+    {
+      "name": "cutie ",
+      "description": "adorable!!!!!!!",
+      "image": "https://images.pexels.com/photos/4081076/pexels-photo-4081076.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": true,
+      "comments": "love, love",
+      "id": "e88a0158-5360-4afe-98b0-7f76508e866b"
+    },
+    {
+      "name": "Steve",
+      "description": "adorable!!!!!!!",
+      "image": "https://images.pexels.com/photos/1398185/pexels-photo-1398185.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": true,
+      "comments": "loves",
+      "id": "492c188b-156f-461c-9f77-1dde312b950f"
+    },
+    {
+      "name": "Cat",
+      "description": "Such a cutie!",
+      "image": "https://images.pexels.com/photos/2688982/pexels-photo-2688982.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": true,
+      "comments": "love, love",
+      "id": 21
+    },
+    {
+      "name": "Steve",
+      "description": "Such a cutie!",
+      "image": "https://images.pexels.com/photos/4083295/pexels-photo-4083295.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": false,
+      "comments": "this is cute",
+      "id": "2b131820-295d-4cb2-b0a7-a28ab300e2eb"
+    },
+    {
+      "name": "Cat",
+      "description": "adorable!!!!!!!",
+      "image": "https://images.pexels.com/photos/1162267/pexels-photo-1162267.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "favorite": true,
+      "comments": "love, love",
+      "id": "4d955e4b-e4c6-44f8-a698-bcc47faec1ed"
     }
   ]
 }
